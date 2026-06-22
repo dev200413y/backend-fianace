@@ -1,4 +1,4 @@
-# Zorvyn Finance System Backend
+# Finance System Backend
 
 A Python-based Finance Tracking System with Telegram Bot integration, built with FastAPI, PostgreSQL, Docker, and Jenkins CI/CD.
 
